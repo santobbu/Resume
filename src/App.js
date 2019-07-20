@@ -17,7 +17,7 @@ const App = () => {
           <Header>
             <Navigation email="mailto:#" github="https://github.com/matmalkowski" linkedin="#" medium="#">
               <Link to="/">Home</Link>
-              <Link to="/roles">Roles</Link>
+              <Link to="/roles">Experiences</Link>
               <Link to="/skills">Skills</Link>
               <Link to="/education">Education</Link>
             </Navigation>

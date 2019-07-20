@@ -1,8 +1,9 @@
 export default {
-  title: 'Your Name Here',
-  subTitle: 'Lead Hacker​ @ Facebook',
+  title: 'Santob Buakaew',
+  subTitle: 'Software Engineer @ Agoda.com',
   descriptions: [
-    "A Lead Hacker with over 10 years of experience. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. ",
+    "Software Engineer with over 10 years experience in Front-End technologies including ASP.NET, ReactJS, Angular, TypeScript and PHP that are part of products used by millions of customers around the world.",
+    "With Agile development process I know how to be a scrum master with planning and improving velocity."
   ],
-  profilePicUrl: 'https://avatars1.githubusercontent.com/u/1546903?s=460&v=4',
+  profilePicUrl: 'https://avatars2.githubusercontent.com/u/37780702',
 }
